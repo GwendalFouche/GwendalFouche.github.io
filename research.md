@@ -17,10 +17,12 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. In Proceed
 
 <details>
   <br>
-  <iframe width="100%" height="500" 
-  src="https://www.youtube.com/embed/__sV67C4XhI" 
-  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div style="max-width: 400px; margin: 2rem auto;">
+  <iframe width="100%" height="225" 
+    src="https://www.youtube.com/embed/__sV67C4XhI" 
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
+</div>
 
 <div style="margin: 2rem 0;"></div>
 
@@ -91,6 +93,5 @@ Cheymol, Antonin, Gwendal Fouché, Lysa Gramoli, Yutaro Hirao, Emilie Hummel, Ma
 Audinot, Alexandre, Diane Dewez, Gwendal Fouché, Rebecca Fribourg, Thomas Howard, Flavien Lécuyer, Tiffany Luong et al. In 2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), pp. 521-522.
 
 
-### *[POSTER] MorphoNet VR: Visualization of 3D Temporal Light-Sheet	2020
-Microscopy Imagery in VR
+### *[POSTER] MorphoNet VR: Visualization of 3D Temporal Light-Sheet Microscopy Imagery in VR
 Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann, NEUBIAS Network of EUropean BioImage Analysts Conference, Bordeaux, France, Feb 2020. 
