@@ -21,8 +21,10 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. In Proceed
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
-  
-![3D Timelines Visual Abstract](assets/images/TimelinesTeaser.jpg)
+
+  <div style="text-align: center;">
+<img src="/assets/images/TimelinesTeaser.jpg" alt="3D Timelines Visual Abstract" width="90%" style="border-radius: 8px; margin: 2rem 0;">
+  </div>
 
   Timelines are common visualizations to represent and manipulate temporal data. However, timeline visualizations rarely consider
 spatio-temporal 3D data (e.g. mesh or volumetric models) directly. In this paper, leveraging the increasedworkspace and 3D interaction
@@ -39,14 +41,18 @@ and evaluation process.
 
 ### [*Immersive and Interactive Visualization of 3D Spatio-Temporal Data using a Space Time Hypercube](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.998991/full)
 Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. Frontiers in Bioinformatics, 2023, vol. 3.
+
 <details>
+  <br>
   <iframe width="100%" height="500" 
   src="https://www.youtube.com/embed/1PZjvqDQSPQ" 
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-</div>
+</div><br>
   
-![Space-Time Hypercube Visual Abstract](assets/images/STCTeaser.jpg)
+  <div style="text-align: center;">
+<img src="/assets/images/STCTeaser.jpg" alt="Space-Time Hypercube Visual Abstract" width="90%" style="border-radius: 8px; margin: 2rem 0;">
+  </div>
 
   The analysis of multidimensional time-varying datasets faces challenges, notably regarding the representation of the data and the visualization of temporal variations. We propose an extension of the well-known Space-Time Cube (STC) visualization technique in order to visualize time-varying 3D spatial data, taking advantage of the interaction capabilities of Virtual Reality (VR). First, we propose the Space-Time Hypercube (STH) as an abstraction for 3D temporal data, extended from the STC concept. Second, through the example of embryo development imaging dataset, we detail the construction and visualization of a STC based on a user-driven projection of the spatial and temporal information. This projection yields a 3D STC visualization, which can also encode additional numerical and categorical data. Additionally, we propose a set of tools allowing the user to filter and manipulate the 3D STC which benefits the visualization, exploration and interaction possibilities offered by VR. Finally, we evaluated the proposed visualization method in the context of 3D temporal cell imaging data analysis, through a user study (n = 5) reporting the feedback from five biologists. These domain experts also accompanied the application design as consultants, providing insights on how the STC visualization could be used for the exploration of complex 3D temporal morphogenesis data.
 </details>
