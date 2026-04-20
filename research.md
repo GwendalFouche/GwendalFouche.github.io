@@ -92,6 +92,7 @@ Valades-Cruz*, Cesar Augusto*, Ludovic Leconte*, Gwendal Fouché*, Thomas Blanc*
 Antonin Cheymol, Gwendal Fouché, Lysa Gramoli, Yutaro Hirao, Emilie Hummel, Maé Mavromatis, Yann Moullec, Ferran Argelaguet, and Florian Nouviale. In 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), pp. 904-905.
 
 <details>
+  <br>
 <iframe width="100%" height="500" 
   src="https://www.youtube.com/embed/b48wJdreL24" 
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
@@ -110,7 +111,7 @@ In the context of the IEEE VR 2022 3DUI Contest entitled “Arts, Science, Infor
 Audinot, Alexandre, Diane Dewez, Gwendal Fouché, Rebecca Fribourg, Thomas Howard, Flavien Lécuyer, Tiffany Luong et al. In 2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), pp. 521-522.
 
 <details>
-  
+  <br>
 <iframe width="100%" height="500" 
   src="https://www.youtube.com/embed/pj9tBaTaPMk" 
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
