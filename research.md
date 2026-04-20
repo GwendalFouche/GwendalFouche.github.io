@@ -85,7 +85,7 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. Frontiers 
 
 
 ### [*Challenges of intracellular visualization using virtual and augmented reality](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2022.997082/full){:target="_blank"}
-Valades-Cruz*, Cesar Augusto*, Ludovic Leconte*, Gwendal Fouché*, Thomas Blanc*, Nathan Van Hille*, Kevin Fournier, Tao Laurent et al. Frontiers in Bioinformatics, 2022, vol. 2. (*These authors have contributed equally to this work and share first authorship.)
+Cesar Augusto Valades-Cruz\*, Ludovic Leconte\*, Gwendal Fouché\*, Thomas Blanc\*, Nathan Van Hille\*, Kevin Fournier, Tao Laurent et al. Frontiers in Bioinformatics, 2022, vol. 2. (*These authors have contributed equally to this work and share first authorship.)
 
 
 ### [The Rubber Slider Metaphor: Visualisation of Temporal and Geolocated Data](https://inria.hal.science/hal-03931452v1){:target="_blank"}
