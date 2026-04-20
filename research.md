@@ -11,14 +11,14 @@ Direction: Ferran Argelaguet, Emmanuel Faure, Charles Kervrann
 Examiner: Christophe Hurter, Tobias Isenberg
 
 
-### [*Timeline Design Space for Immersive Exploration of Time-Varying](https://inria.hal.science/hal-03903025)
-Spatial 3D Data
+### [*Timeline Design Space for Immersive Exploration of Time-Varying Spatial 3D Data](https://inria.hal.science/hal-03903025)
+
 Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. In Proceedings of the 28th ACM Symposium on Virtual Reality Software and Technology (pp. 1-11), 2022.
 <details>
   <div style="text-align: center;">
-  <video width="80%" controls>
-    <source src="/assets/videos/VRST_3DTimelines_video.mp4" type="video/mp4">
-  </video>
+  <iframe width="100%" height="500" 
+  src="https://youtu.be/__sV67C4XhI" 
+  frameborder="0" allowfullscreen></iframe>
 </div>
 
   Timelines are common visualizations to represent and manipulate temporal data. However, timeline visualizations rarely consider
@@ -37,6 +37,11 @@ and evaluation process.
 ### [*Immersive and Interactive Visualization of 3D Spatio-Temporal Data using a Space Time Hypercube](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.998991/full)
 Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. Frontiers in Bioinformatics, 2023, vol. 3.
 <details>
+    <div style="text-align: center;">
+  <iframe width="100%" height="500" 
+  src="https://youtu.be/1PZjvqDQSPQ" 
+  frameborder="0" allowfullscreen></iframe>
+</div>
 </details>
 
 
