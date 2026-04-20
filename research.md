@@ -17,7 +17,7 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. In Proceed
 <details>
   <div style="text-align: center;">
   <iframe width="100%" height="500" 
-  src="https://youtu.be/__sV67C4XhI" 
+  src="https://www.youtube.com/embed/1PZjvqDQSPQ" 
   frameborder="0" allowfullscreen></iframe>
 </div>
 
