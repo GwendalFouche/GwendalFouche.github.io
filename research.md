@@ -21,7 +21,8 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. In Proceed
   src="https://www.youtube.com/embed/__sV67C4XhI" 
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
-<br>
+
+<div style="margin: 2rem 0;"></div>
 
 <strong> Abstract </strong>
 
@@ -34,7 +35,7 @@ different support configurations. The rightmost image ilustrates the use of an h
 of an time-varying embryo imaging dataset. The viridis colormap is used to encode the elongation ratio of cells involved in
 morphogenetic movements.
   </figcaption>
-</figure><br>
+</figure>
 
   Timelines are common visualizations to represent and manipulate temporal data. However, timeline visualizations rarely consider
 spatio-temporal 3D data (e.g. mesh or volumetric models) directly. In this paper, leveraging the increasedworkspace and 3D interaction
@@ -58,7 +59,8 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. Frontiers 
   src="https://www.youtube.com/embed/1PZjvqDQSPQ" 
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<br>
+  
+<div style="margin: 2rem 0;"></div>
 
 <strong> Abstract </strong>
   
@@ -67,7 +69,7 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. Frontiers 
   <figcaption style="font-size: 0.9rem; color: #a0a4a8; margin-top: 0.5rem;">
     From a cross-section on the 3D surface-based temporal data shown on the first figure, we generate a Space-Time Cube visualization, displayed in the second image, showing the evolution over time of the spatial data of the cross-section displayed on the x and y axes. The third picture shows how the visualization can be enriched with numerical and categorical data using different color coding. A set of interaction tools help the user to explore the generated visualization, as seen in the last image.
   </figcaption>
-</figure><br>
+</figure>
 
   The analysis of multidimensional time-varying datasets faces challenges, notably regarding the representation of the data and the visualization of temporal variations. We propose an extension of the well-known Space-Time Cube (STC) visualization technique in order to visualize time-varying 3D spatial data, taking advantage of the interaction capabilities of Virtual Reality (VR). First, we propose the Space-Time Hypercube (STH) as an abstraction for 3D temporal data, extended from the STC concept. Second, through the example of embryo development imaging dataset, we detail the construction and visualization of a STC based on a user-driven projection of the spatial and temporal information. This projection yields a 3D STC visualization, which can also encode additional numerical and categorical data. Additionally, we propose a set of tools allowing the user to filter and manipulate the 3D STC which benefits the visualization, exploration and interaction possibilities offered by VR. Finally, we evaluated the proposed visualization method in the context of 3D temporal cell imaging data analysis, through a user study (n = 5) reporting the feedback from five biologists. These domain experts also accompanied the application design as consultants, providing insights on how the STC visualization could be used for the exploration of complex 3D temporal morphogenesis data.
 </details>
@@ -77,17 +79,15 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. Frontiers 
 # Other Contributions
 
 
-### *Challenges of intracellular visualization using virtual and	2022
-augmented reality
+### [*Challenges of intracellular visualization using virtual and augmented reality](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2022.997082/full){:target="_blank"}
 Valades-Cruz*, Cesar Augusto*, Ludovic Leconte*, Gwendal Fouché*, Thomas Blanc*, Nathan Van Hille*, Kevin Fournier, Tao Laurent et al. Frontiers in Bioinformatics, 2022, vol. 2. (*These authors have contributed equally to this work and share first authorship.)
 
 
-### The Rubber Slider Metaphor: Visualisation of Temporal	2022
-and Geolocated Data.
+### [The Rubber Slider Metaphor: Visualisation of Temporal and Geolocated Data](https://inria.hal.science/hal-03931452v1){:target="_blank"}
 Cheymol, Antonin, Gwendal Fouché, Lysa Gramoli, Yutaro Hirao, Emilie Hummel, Maé Mavromatis, Yann Moullec, Ferran Argelaguet, and Florian Nouviale. In 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), pp. 904-905.
 
 
-### 3Dexterity: Finding your place in a 3-armed world	2020
+### 3Dexterity: Finding your place in a 3-armed world
 Audinot, Alexandre, Diane Dewez, Gwendal Fouché, Rebecca Fribourg, Thomas Howard, Flavien Lécuyer, Tiffany Luong et al. In 2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), pp. 521-522.
 
 
