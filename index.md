@@ -1,18 +1,19 @@
 ---
 layout: default
-title: Gwendal Fouché
+title: Doctor in Immersive Analytics
+description: Gwendal Fouché
 ---
 
 # Portfolio
 
-[Research works](research.md)
+[Research Works](research.md)
 
-[Personal Works](portfolio.md)
+[Personal Projects](portfolio.md)
 
-[Resume (EN)](assets/pdf/resumeGwendalFouché.pdf") / [CV (FR)](assets/pdf/CVGwendalFouché.pdf)
+Resume [EN](assets/pdf/resumeGwendalFouché.pdf") / [FR](assets/pdf/CVGwendalFouché.pdf)
 
 
 
-# My Links
+## My Links
 
 [Linkedin](www.linkedin.com/in/gwendal-fouché-7076a8173) / Email : gwendal.fouche.pro@gmail.com
