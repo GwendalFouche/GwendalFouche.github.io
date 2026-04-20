@@ -14,6 +14,11 @@ title: Personal Projects
   An inverse tower defense: instead of placing towers, you control units, try not to get killed, and push toward the goal.
 Your objective is to get a set number of characters to the exit within a time limit, and a limited number of actions.
 To do so, you reshape the level using colored masks that hide matching colored elements (ground, turrets, characters).
+  </figcaption>
+</figure>
+
+
+<div style="margin: 2rem 0;"></div>
 
 ## VeloVR
 
