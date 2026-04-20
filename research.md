@@ -89,12 +89,40 @@ Valades-Cruz*, Cesar Augusto*, Ludovic Leconte*, Gwendal Fouché*, Thomas Blanc*
 
 
 ### [The Rubber Slider Metaphor: Visualisation of Temporal and Geolocated Data](https://inria.hal.science/hal-03931452v1){:target="_blank"}
-Cheymol, Antonin, Gwendal Fouché, Lysa Gramoli, Yutaro Hirao, Emilie Hummel, Maé Mavromatis, Yann Moullec, Ferran Argelaguet, and Florian Nouviale. In 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), pp. 904-905.
+Antonin Cheymol, Gwendal Fouché, Lysa Gramoli, Yutaro Hirao, Emilie Hummel, Maé Mavromatis, Yann Moullec, Ferran Argelaguet, and Florian Nouviale. In 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), pp. 904-905.
+
+<details>
+<iframe width="100%" height="500" 
+  src="https://www.youtube.com/embed/b48wJdreL24" 
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+  
+<div style="margin: 2rem 0;"></div>
+
+In the context of the IEEE VR 2022 3DUI Contest entitled “Arts, Science, Information, and Knowledge - Visualized and Interacted”, this paper presents a VR application to highlight the usage of the rubber slider metaphor. The rubber slider is an augmentation of usual 2D slider controls where users can bend the slider axis in order to control an additional degree of freedom value in the application. This demonstration immerses users in a Virtual Environment where they will be able to explore a database of art pieces geolocated on a 3D earth model and their corresponding art movements displayed on a timeline interface.
+  
+<div style="margin: 2rem 0;"></div>
+
+</details>
 
 
 ### 3Dexterity: Finding your place in a 3-armed world
 Audinot, Alexandre, Diane Dewez, Gwendal Fouché, Rebecca Fribourg, Thomas Howard, Flavien Lécuyer, Tiffany Luong et al. In 2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), pp. 521-522.
 
+<details>
+  
+<iframe width="100%" height="500" 
+  src="https://www.youtube.com/embed/pj9tBaTaPMk" 
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+<div style="margin: 2rem 0;"></div>
+  
+In the context of the IEEE VR 2020 3DUI Contest entitled “Embodiment for the Difference”, this paper presents a VR application to highlight the challenges that people with physical disabilities face on their daily life. Two-armed users are placed in a world where people normally have three arms, making them effectively physically disabled. The scenario takes the user through the process of struggling with everyday interactions (designed for humans with three arms), then receiving a third arm prosthesis and thus recovering some level of autonomy. The experience is intended to generate a sense of difference and empathy for physically disabled persons.
+
+<div style="margin: 2rem 0;"></div>
+  
+</details>
 
 ### *[POSTER] MorphoNet VR: Visualization of 3D Temporal Light-Sheet Microscopy Imagery in VR
 Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann, NEUBIAS Network of EUropean BioImage Analysts Conference, Bordeaux, France, Feb 2020. 
