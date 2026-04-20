@@ -8,7 +8,7 @@ description: Doctor in Immersive Analytics
 
 [Research Works](research.md)
 
-[Personal Projects](portfolio.md)
+[Personal Projects](personalProjects.md)
 
 Resume [EN](assets/pdf/resumeGwendalFouché.pdf) / [FR](assets/pdf/CVGwendalFouché.pdf)
 
