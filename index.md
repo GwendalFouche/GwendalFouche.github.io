@@ -5,17 +5,10 @@ title: Portfolio
 
 # Bienvenue
 
-Docteur en XR et DataVis
+Doctor in Immersive Analytics
 
-- [Projets Personnels](#projets)
-- [Projets de Recherche](#recherche)
+- [Projets de Recherche](research.md)
+- [Projets Personnels](portfolio.md)
 
-## Projets Personnels {#projets}
+My Links
 
-### Projet 1
-Description...
-
-## Projets de Recherche {#recherche}
-
-### Recherche 1
-Description...
