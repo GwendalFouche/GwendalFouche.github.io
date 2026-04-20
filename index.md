@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Doctor in Immersive Analytics
-description: Gwendal Fouché
+title: Gwendal Fouché
+description: Doctor in Immersive Analytics
 ---
 
 # Portfolio
