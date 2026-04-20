@@ -14,17 +14,27 @@ Examiner: Christophe Hurter, Tobias Isenberg
 ### [*Timeline Design Space for Immersive Exploration of Time-Varying Spatial 3D Data](https://inria.hal.science/hal-03903025)
 
 Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. In Proceedings of the 28th ACM Symposium on Virtual Reality Software and Technology (pp. 1-11), 2022.
+
 <details>
+  <br>
   <div style="text-align: center;">
   <iframe width="100%" height="500" 
   src="https://www.youtube.com/embed/__sV67C4XhI" 
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
-</div>
+</div><br>
 
-  <div style="text-align: center;">
+
+<figure style="text-align: center; margin: 2rem 0;">
 <img src="/assets/images/TimelinesTeaser.jpg" alt="3D Timelines Visual Abstract" width="90%" style="border-radius: 8px; margin: 2rem 0;">
-  </div>
+  <figcaption style="font-size: 0.9rem; color: #a0a4a8; margin-top: 0.5rem;">
+    Illustration of the proposed 3D timeline design space for immersive exploration of time-varying spatial 3D data.
+The first row showcases different timeline representations, i.e. guiding curve of the timeline; while the second row showcases
+different support configurations. The rightmost image ilustrates the use of an helicoid representation for the exploration
+of an time-varying embryo imaging dataset. The viridis colormap is used to encode the elongation ratio of cells involved in
+morphogenetic movements.
+  </figcaption>
+</figure><br>
 
   Timelines are common visualizations to represent and manipulate temporal data. However, timeline visualizations rarely consider
 spatio-temporal 3D data (e.g. mesh or volumetric models) directly. In this paper, leveraging the increasedworkspace and 3D interaction
@@ -50,9 +60,12 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. Frontiers 
 </iframe>
 </div><br>
   
-  <div style="text-align: center;">
+  <figure style="text-align: center; margin: 2rem 0;">
 <img src="/assets/images/STCTeaser.jpg" alt="Space-Time Hypercube Visual Abstract" width="90%" style="border-radius: 8px; margin: 2rem 0;">
-  </div>
+  <figcaption style="font-size: 0.9rem; color: #a0a4a8; margin-top: 0.5rem;">
+    From a cross-section on the 3D surface-based temporal data shown on the first figure, we generate a Space-Time Cube visualization, displayed in the second image, showing the evolution over time of the spatial data of the cross-section displayed on the x and y axes. The third picture shows how the visualization can be enriched with numerical and categorical data using different color coding. A set of interaction tools help the user to explore the generated visualization, as seen in the last image.
+  </figcaption>
+</figure><br>
 
   The analysis of multidimensional time-varying datasets faces challenges, notably regarding the representation of the data and the visualization of temporal variations. We propose an extension of the well-known Space-Time Cube (STC) visualization technique in order to visualize time-varying 3D spatial data, taking advantage of the interaction capabilities of Virtual Reality (VR). First, we propose the Space-Time Hypercube (STH) as an abstraction for 3D temporal data, extended from the STC concept. Second, through the example of embryo development imaging dataset, we detail the construction and visualization of a STC based on a user-driven projection of the spatial and temporal information. This projection yields a 3D STC visualization, which can also encode additional numerical and categorical data. Additionally, we propose a set of tools allowing the user to filter and manipulate the 3D STC which benefits the visualization, exploration and interaction possibilities offered by VR. Finally, we evaluated the proposed visualization method in the context of 3D temporal cell imaging data analysis, through a user study (n = 5) reporting the feedback from five biologists. These domain experts also accompanied the application design as consultants, providing insights on how the STC visualization could be used for the exploration of complex 3D temporal morphogenesis data.
 </details>
