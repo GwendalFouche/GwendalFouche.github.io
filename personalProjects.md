@@ -21,6 +21,8 @@ To do so, you reshape the level using colored masks that hide matching colored e
 </figure>
 <br> 
 
+*Credits available on [GGJ game page](https://globalgamejam.org/games/2026/chroma-attack-5){:target="_blank"}*
+
 
 <div style="margin: 2rem 0;"></div>
 
@@ -35,3 +37,4 @@ A playful VR experience that transforms a stationary bike into an immersive virt
 </iframe>
 <br>
 
+*Created by Thomas Howard & myself*
