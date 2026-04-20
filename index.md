@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portfolio1
+title: Gwendal Fouché
 ---
 
 # Bienvenue
