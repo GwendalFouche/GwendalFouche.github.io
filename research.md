@@ -6,8 +6,10 @@ title: Research works
 # Main Publications
 
 ### [PhD Thesis : Immersive and Interactive Visualisation of 3D Temporal Data](https://theses.hal.science/tel-04529934){:target="_blank"}
-PhD executed and financed through Inria Challenge NAVISCOPE : image-guided NAvigation and VIsualization of large data sets in live cell imaging and microSCOPy
+PhD executed and financed through Inria Challenge **NAVISCOPE** : image-guided **NA**vigation and **VI**sualization of large data sets in live cell imaging and micro**SCOP**y
+
 Direction: Ferran Argelaguet, Emmanuel Faure, Charles Kervrann
+
 Examiner: Christophe Hurter, Tobias Isenberg
 
 
