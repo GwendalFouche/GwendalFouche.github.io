@@ -4,8 +4,7 @@ title: Personal Projects
 ---
 
 
-## [Chroma Attack - Glogal Game Jam 2026](https://globalgamejam.org/games/2026/chroma-attack-5){target:_None}
-
+## [Chroma Attack - Glogal Game Jam 2026](https://globalgamejam.org/games/2026/chroma-attack-5){:target="_blank"}
 <br>
 <figure style="text-align: center; margin: 2rem 0;">
 <img src="/assets/images/chromaattack.png" alt="Chroma Attack" width="70%" style="border-radius: 8px; margin: 2rem 0;">
