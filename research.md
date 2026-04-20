@@ -17,13 +17,13 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. In Proceed
 
 <details>
   <br>
-  <div style="text-align: center;">
   <iframe width="100%" height="500" 
   src="https://www.youtube.com/embed/__sV67C4XhI" 
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
-</div><br>
+<br>
 
+#### Abstract
 
 <figure style="text-align: center; margin: 2rem 0;">
 <img src="/assets/images/TimelinesTeaser.jpg" alt="3D Timelines Visual Abstract" width="90%" style="border-radius: 8px; margin: 2rem 0;">
@@ -58,7 +58,9 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. Frontiers 
   src="https://www.youtube.com/embed/1PZjvqDQSPQ" 
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-</div><br>
+<br>
+
+#### Abstract
   
   <figure style="text-align: center; margin: 2rem 0;">
 <img src="/assets/images/STCTeaser.jpg" alt="Space-Time Hypercube Visual Abstract" width="90%" style="border-radius: 8px; margin: 2rem 0;">
