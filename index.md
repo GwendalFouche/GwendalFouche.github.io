@@ -10,7 +10,7 @@ description: Gwendal Fouché
 
 [Personal Projects](portfolio.md)
 
-Resume [EN](assets/pdf/resumeGwendalFouché.pdf") / [FR](assets/pdf/CVGwendalFouché.pdf)
+Resume [EN](assets/pdf/resumeGwendalFouché.pdf) / [FR](assets/pdf/CVGwendalFouché.pdf)
 
 
 
