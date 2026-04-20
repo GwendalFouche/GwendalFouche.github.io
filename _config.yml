@@ -2,7 +2,7 @@ title: Gwendal Fouché
 description: Portfolio
 baseurl: ""
 url: "https://gwendalfouche.github.io"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 # Autres configs optionnelles
 author: Gwendal Fouché
