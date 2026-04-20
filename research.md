@@ -5,13 +5,13 @@ title: Research works
 
 # Main Publications
 
-### [PhD Thesis : Immersive and Interactive Visualisation of 3D Temporal Data](https://theses.hal.science/tel-04529934)
+### [PhD Thesis : Immersive and Interactive Visualisation of 3D Temporal Data](https://theses.hal.science/tel-04529934){:target="_blank"}
 PhD executed and financed through Inria Challenge NAVISCOPE : image-guided NAvigation and VIsualization of large data sets in live cell imaging and microSCOPy
 Direction: Ferran Argelaguet, Emmanuel Faure, Charles Kervrann
 Examiner: Christophe Hurter, Tobias Isenberg
 
 
-### [*Timeline Design Space for Immersive Exploration of Time-Varying Spatial 3D Data](https://inria.hal.science/hal-03903025)
+### [*Timeline Design Space for Immersive Exploration of Time-Varying Spatial 3D Data](https://inria.hal.science/hal-03903025){:target="_blank"}
 
 Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. In Proceedings of the 28th ACM Symposium on Virtual Reality Software and Technology (pp. 1-11), 2022.
 
@@ -23,7 +23,7 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. In Proceed
   </iframe>
 <br>
 
-#### Abstract
+<strong> Abstract </strong>
 
 <figure style="text-align: center; margin: 2rem 0;">
 <img src="/assets/images/TimelinesTeaser.jpg" alt="3D Timelines Visual Abstract" width="90%" style="border-radius: 8px; margin: 2rem 0;">
@@ -49,7 +49,7 @@ the use of 3D timelines with a use-case on morphogenetic analysis in which domai
 and evaluation process.
 </details>
 
-### [*Immersive and Interactive Visualization of 3D Spatio-Temporal Data using a Space Time Hypercube](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.998991/full)
+### [*Immersive and Interactive Visualization of 3D Spatio-Temporal Data using a Space Time Hypercube](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.998991/full){:target="_blank"}
 Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. Frontiers in Bioinformatics, 2023, vol. 3.
 
 <details>
@@ -60,7 +60,7 @@ Gwendal Fouché, Ferran Argelaguet, Emmanuel Faure, Charles Kervrann. Frontiers 
 </iframe>
 <br>
 
-#### Abstract
+<strong> Abstract </strong>
   
   <figure style="text-align: center; margin: 2rem 0;">
 <img src="/assets/images/STCTeaser.jpg" alt="Space-Time Hypercube Visual Abstract" width="90%" style="border-radius: 8px; margin: 2rem 0;">
