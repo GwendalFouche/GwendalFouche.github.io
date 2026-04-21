@@ -3,6 +3,10 @@ layout: default
 title: Research works
 ---
 
+[←Back to menu](https://gwendalfouche.github.io/)
+
+<div style="margin: 2rem 0;"></div>
+
 # Main Publications
 
 ### [PhD Thesis : Immersive and Interactive Visualisation of 3D Temporal Data](https://theses.hal.science/tel-04529934){:target="_blank"}
