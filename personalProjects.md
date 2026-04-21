@@ -3,6 +3,9 @@ layout: default
 title: Personal Projects
 ---
 
+[←Back to menu](https://gwendalfouche.github.io/)
+
+<div style="margin: 2rem 0;"></div>
 
 ## [Chroma Attack - Glogal Game Jam 2026](https://globalgamejam.org/games/2026/chroma-attack-5){:target="_blank"}
 
