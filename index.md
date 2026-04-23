@@ -5,7 +5,7 @@ description: Doctor in Immersive Analytics
 ---
 
 <center>
-<em>I design interactive 3D experiences, with immersion, user experience and perception in mind. My technical expertise includes real-time 3D rendering, shader programming, and VR apps on Unity.<br>I also make games and demos sometimes.</em>
+<em>I design interactive 3D experiences, with immersion, user experience and perception in mind. My technical expertise includes real-time 3D rendering, shader programming, and VR apps on Unity. I also make games and demos sometimes.</em>
 </center>
 
 # Portfolio
