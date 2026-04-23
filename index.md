@@ -14,7 +14,7 @@ description: Doctor in Immersive Analytics
 
 [Personal Projects](personalProjects.md) - Game jams, experiments, things I built for fun
 
-Resume [EN](assets/pdf/resumeGwendalFouché.pdf) / [FR](assets/pdf/CVGwendalFouché.pdf)
+Resume [EN](assets/pdf/GFouche_resume_public.pdf) / [FR](assets/pdf/GFouche_CV_public.pdf)
 
 
 ## My Links
