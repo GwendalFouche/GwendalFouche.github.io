@@ -4,9 +4,9 @@ title: Gwendal Fouché
 description: Doctor in Immersive Analytics
 ---
 
-<div style="min-width: 105vw; display: flex; align-items: center; justify-content: center;">
-<em>I design and develop interactive 3D experiences, with immersion, user experience and perception in mind. My technical expertise includes real-time 3D rendering, shader programming, and VR apps on Unity. I also make games and demos sometimes.</em>
-</div>
+<center>
+<em>I design interactive 3D experiences, with immersion, user experience and perception in mind. My technical expertise includes real-time 3D rendering, shader programming, and VR apps on Unity. I also make games and demos sometimes.</em>
+</center>
 
 # Portfolio
 
