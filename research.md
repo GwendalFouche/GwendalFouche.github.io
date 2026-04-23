@@ -6,7 +6,7 @@ title: Research works
 [←Back to menu](https://gwendalfouche.github.io/)
 
 
-**Immersive Analytics**: a scientific domain at the center of Data Visualisation and Mixed Reality. 3D interactions and stereoscopic displays enhance the way users percieve and explore complex 3D or 3D temporal data.
+**Immersive Analytics** is a scientific domain at the center of Data Visualisation and Mixed Reality. 3D interactions and stereoscopic displays enhance the way users percieve and explore complex 3D or 3D temporal data.
 <div style="margin: 2rem 0;"></div>
 
 # Main Publications
