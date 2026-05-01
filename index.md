@@ -19,4 +19,4 @@ Resume [EN](assets/pdf/GFouche_resume_public.pdf) / [FR](assets/pdf/GFouche_CV_p
 
 ## My Links
 
-[Linkedin](www.linkedin.com/in/gwendal-fouché-7076a8173) / Email : gwendal.fouche.pro@gmail.com
+[Linkedin](https://www.linkedin.com/in/gwendal-fouché-7076a8173) / Email : gwendal.fouche.pro@gmail.com
