@@ -39,3 +39,23 @@ A playful VR experience that transforms a stationary bike into an immersive virt
 <br>
 
 *Created by Thomas Howard & myself*
+
+<div style="margin: 2rem 0;"></div>
+
+## Some Blender renderings
+
+I recently got into Blender, I have a few nice renders.
+
+<figure style="text-align: center; margin: 2rem 0;">
+<img src="/assets/images/donuts.png" alt="Donuts" width="70%" style="border-radius: 8px; margin: 2rem 0;">
+  <figcaption style="font-size: 0.9rem; color: #a0a4a8; margin-top: 0.5rem;">
+    The classic Donuts.
+     </figcaption>
+</figure>
+
+<figure style="text-align: center; margin: 2rem 0;">
+<img src="/assets/images/lapomme.png" alt="Apple" width="70%" style="border-radius: 8px; margin: 2rem 0;">
+  <figcaption style="font-size: 0.9rem; color: #a0a4a8; margin-top: 0.5rem;">
+    Just an apple in the sand...
+     </figcaption>
+</figure>
