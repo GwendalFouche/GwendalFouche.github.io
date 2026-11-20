@@ -27,6 +27,17 @@ To do so, you reshape the level using colored masks that hide matching colored e
 
 <div style="margin: 2rem 0;"></div>
 
+## Smokey & Wojtek
+
+Smokey & Wojtek is a game made during a game jam with Indie Collective in 2026, under the theme of the mascot of the U.S. Forest Service in the Wildfire Prevention Campaign, [Smokey](https://en.wikipedia.org/wiki/Smokey_Bear){:target="_blank"}. [Caporal Wojtek](https://en.wikipedia.org/wiki/Wojtek){:target="_blank"} on the other hand, is a reference to a bear that "served" in the Polish army.
+
+"The forest is in danger! Captain Smokey and Corporal Wojtek need your help!
+
+Evil Nazis with flamethrowers are coming to destroy the two bears' forest!"
+
+
+<div style="margin: 2rem 0;"></div>
+
 ## VeloVR
 
 A playful VR experience that transforms a stationary bike into an immersive virtual vehicle. Pedalling controls acceleration, controllers handle steering, and realistic physics combined with spatial audio create an engaging sense of motion and speed.
