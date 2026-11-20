@@ -35,6 +35,11 @@ Smokey & Wojtek is a game made during a game jam with Indie Collective in 2026, 
 
 Evil Nazis with flamethrowers are coming to destroy the two bears' forest!"
 
+<figure style="text-align: center; margin: 2rem 0;">
+<img src="/assets/images/mxT_Ml.png" alt="Smokey & Wojtek front image" width="75%" style="border-radius: 8px; margin: 2rem 0;">
+</figure>
+
+*Credits available on the [game page](https://unicorngall.itch.io/smokeyandwojtek){:target="_blank"}* 
 
 <div style="margin: 2rem 0;"></div>
 
