@@ -39,7 +39,7 @@ Evil Nazis with flamethrowers are coming to destroy the two bears' forest!"
 <img src="/assets/images/mxT_Ml.png" alt="Smokey & Wojtek front image" width="95%" style="border-radius: 8px; margin: 2rem 0;">
 </figure>
 
-*Credits available on the [game page](https://unicorngall.itch.io/smokeyandwojtek){:target="_blank"}* 
+*Credits and playable demo available on the [game page](https://unicorngall.itch.io/smokeyandwojtek){:target="_blank"}* 
 
 <div style="margin: 2rem 0;"></div>
 
