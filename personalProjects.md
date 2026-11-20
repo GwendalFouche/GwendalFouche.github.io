@@ -27,7 +27,7 @@ To do so, you reshape the level using colored masks that hide matching colored e
 
 <div style="margin: 2rem 0;"></div>
 
-## Smokey & Wojtek
+## [Smokey & Wojtek](https://unicorngall.itch.io/smokeyandwojtek){:target="_blank"}
 
 Smokey & Wojtek is a game made during a game jam with Indie Collective in 2026, under the theme of the mascot of the U.S. Forest Service in the Wildfire Prevention Campaign, [Smokey](https://en.wikipedia.org/wiki/Smokey_Bear){:target="_blank"}. [Caporal Wojtek](https://en.wikipedia.org/wiki/Wojtek){:target="_blank"} on the other hand, is a reference to a bear that "served" in the Polish army.
 
